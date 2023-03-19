@@ -1,5 +1,5 @@
 "# 42-Seoul" 
 
-Delet
+Delete
 
 oath of confidentiality
